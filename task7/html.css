@@ -1,0 +1,130 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url("back.jpg");
+    color: white;
+}
+h1{
+    padding: 100px;
+    font-size: 50px;
+    font-family: lucida handwriting;
+}
+p{
+    display: inline;
+    position: relative;
+    bottom: 150px;
+    left:600px;
+    text-shadow: pink 1px 2px;
+}
+.first{
+    background-color: white;
+    height: 350px;
+}
+.links a{
+    position: relative;
+    top:20px;
+    left: 40px;
+    text-shadow: 1px 2px white;
+    text-decoration: none;
+    color: violet;
+    padding: 2px;
+    padding-left: 20px;
+}
+.first img{
+    width: 330px;
+    height: 250px;
+    margin: 10px;
+    position: relative;
+    top:10px;
+}
+
+img{
+    width: 500px;
+    height: 200px;
+    padding: 40px;
+    position: relative;
+    left: 60px;
+}
+hr{
+    color: white;
+}
+.h1{
+    padding: 80px;
+    font-size: 25px;
+    font-family: lucida handwriting;
+}
+nav{
+    background-color: white;
+    color: violet;
+    height: 100px;
+    text-align: center;
+}
+nav a{
+    font-family: lucida handwriting;
+    color: violet;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    top: 20px;
+}
+.products img{
+    width:120px ;
+    height: 100px;
+    padding-left: 100px;
+}
+.p1{
+    position: relative;
+    top: 10px;
+    left: 155px;
+}
+.p2{
+    position: relative;
+    bottom: 25px;
+    left: 425px;
+}
+.p3{
+    position: relative;
+    bottom: 60px;
+    left: 690px;
+    right: 1px;
+}
+.p4{
+    position: relative;
+    bottom: 96px;
+    left: 950px;
+    right: 0px;
+}
+.p5{
+    position: relative;
+    top: 10px;
+    left: 155px;
+}
+.p6{
+    position: relative;
+    bottom: 25px;
+    left: 425px;
+}
+.p7{
+    position: relative;
+    bottom: 60px;
+    left: 690px;
+    right: 1px;
+}
+.p8{
+    position: relative;
+    bottom: 96px;
+    left: 950px;
+    right: 0px;
+}
+.h1{
+    padding: 20px;
+    font-size: 20px;
+    font-family: lucida handwriting;
+}
